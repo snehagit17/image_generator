@@ -1,1 +1,2 @@
 # image_generator
+this is using the unsplash api where in the home page there are some pictures and there is form created in which there is a search button we can search anything we want to and then it will give those images and at the first it will show only a few pictures and if we want more pictures of similar kind then we have to click the show more button which will be hidden at the home page but vivible after searching an item.
